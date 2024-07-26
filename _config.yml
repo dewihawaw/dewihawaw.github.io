@@ -1,9 +1,0 @@
-theme: worthy_v.1.0
-title: My GitHub Pages Site
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my GitHub Pages site using the Minimal theme.
-theme: worthy_v.1.0
-
-# Optional settings
-markdown: kramdown
-paginate: 5
